@@ -99,3 +99,4 @@ echo "📱 API will be available at: http://localhost:5000"
 echo "🌐 Web interface will be available at: http://localhost:5000"
 echo ""
 echo "💡 Note: If running from WSL, ensure Docker Desktop has access to your Windows drives"
+

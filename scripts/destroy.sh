@@ -241,3 +241,4 @@ main() {
 
 # Run main destruction
 main "$@"
+

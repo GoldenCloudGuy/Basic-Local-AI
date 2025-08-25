@@ -28,3 +28,4 @@ echo "   - Docker images (for faster restart)"
 echo ""
 echo "🚀 To restart: bash scripts/start.sh"
 echo "💥 To destroy everything: bash scripts/destroy.sh"
+
